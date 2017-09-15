@@ -1,0 +1,9 @@
+c:\users\abhin\documents\visual studio 2017\Projects\LeetCodeWeeklyContest1\LeetCodeWeeklyContest1\bin\Debug\netcoreapp1.1\LeetCodeWeeklyContest1.deps.json
+c:\users\abhin\documents\visual studio 2017\Projects\LeetCodeWeeklyContest1\LeetCodeWeeklyContest1\bin\Debug\netcoreapp1.1\LeetCodeWeeklyContest1.runtimeconfig.json
+c:\users\abhin\documents\visual studio 2017\Projects\LeetCodeWeeklyContest1\LeetCodeWeeklyContest1\bin\Debug\netcoreapp1.1\LeetCodeWeeklyContest1.runtimeconfig.dev.json
+c:\users\abhin\documents\visual studio 2017\Projects\LeetCodeWeeklyContest1\LeetCodeWeeklyContest1\obj\Debug\netcoreapp1.1\LeetCodeWeeklyContest1.csprojResolveAssemblyReference.cache
+c:\users\abhin\documents\visual studio 2017\Projects\LeetCodeWeeklyContest1\LeetCodeWeeklyContest1\obj\Debug\netcoreapp1.1\LeetCodeWeeklyContest1.AssemblyInfo.cs
+c:\users\abhin\documents\visual studio 2017\Projects\LeetCodeWeeklyContest1\LeetCodeWeeklyContest1\bin\Debug\netcoreapp1.1\LeetCodeWeeklyContest1.dll
+c:\users\abhin\documents\visual studio 2017\Projects\LeetCodeWeeklyContest1\LeetCodeWeeklyContest1\bin\Debug\netcoreapp1.1\LeetCodeWeeklyContest1.pdb
+c:\users\abhin\documents\visual studio 2017\Projects\LeetCodeWeeklyContest1\LeetCodeWeeklyContest1\obj\Debug\netcoreapp1.1\LeetCodeWeeklyContest1.dll
+c:\users\abhin\documents\visual studio 2017\Projects\LeetCodeWeeklyContest1\LeetCodeWeeklyContest1\obj\Debug\netcoreapp1.1\LeetCodeWeeklyContest1.pdb

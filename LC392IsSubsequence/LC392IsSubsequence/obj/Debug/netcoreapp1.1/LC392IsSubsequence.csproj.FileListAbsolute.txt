@@ -1,0 +1,9 @@
+c:\users\abhin\documents\visual studio 2017\Projects\LC392IsSubsequence\LC392IsSubsequence\bin\Debug\netcoreapp1.1\LC392IsSubsequence.deps.json
+c:\users\abhin\documents\visual studio 2017\Projects\LC392IsSubsequence\LC392IsSubsequence\bin\Debug\netcoreapp1.1\LC392IsSubsequence.runtimeconfig.json
+c:\users\abhin\documents\visual studio 2017\Projects\LC392IsSubsequence\LC392IsSubsequence\bin\Debug\netcoreapp1.1\LC392IsSubsequence.runtimeconfig.dev.json
+c:\users\abhin\documents\visual studio 2017\Projects\LC392IsSubsequence\LC392IsSubsequence\bin\Debug\netcoreapp1.1\LC392IsSubsequence.dll
+c:\users\abhin\documents\visual studio 2017\Projects\LC392IsSubsequence\LC392IsSubsequence\bin\Debug\netcoreapp1.1\LC392IsSubsequence.pdb
+c:\users\abhin\documents\visual studio 2017\Projects\LC392IsSubsequence\LC392IsSubsequence\obj\Debug\netcoreapp1.1\LC392IsSubsequence.csprojResolveAssemblyReference.cache
+c:\users\abhin\documents\visual studio 2017\Projects\LC392IsSubsequence\LC392IsSubsequence\obj\Debug\netcoreapp1.1\LC392IsSubsequence.AssemblyInfo.cs
+c:\users\abhin\documents\visual studio 2017\Projects\LC392IsSubsequence\LC392IsSubsequence\obj\Debug\netcoreapp1.1\LC392IsSubsequence.dll
+c:\users\abhin\documents\visual studio 2017\Projects\LC392IsSubsequence\LC392IsSubsequence\obj\Debug\netcoreapp1.1\LC392IsSubsequence.pdb
